@@ -54,8 +54,8 @@ const actions = {
         count: data.count + 1,
       };
       dispatch ('updateArticle', updatedArticle);
-      commit ('getDetailArticle', data);
-      return data;
+      commit ('getDetailArticle', updatedArticle);
+      return updatedArticle;
     }),
 };
 

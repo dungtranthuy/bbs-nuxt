@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "title": "test",
+      "content": "test",
+      "author": "test",
+      "email": "test2@gmail.com",
+      "updatedDate": "2018-08-30T04:03:03.673Z",
+      "count": 18,
+      "id": 1
+    },
+    {
+      "title": "test1",
+      "content": "content test1",
+      "author": "author1",
+      "email": "dung.tranthuy@pycogroup.com",
+      "updatedDate": "2018-08-31T07:28:15.250Z",
+      "count": 0,
+      "id": 2
+    },
+    {
+      "title": "test2",
+      "content": "content test2",
+      "author": "author2",
+      "email": "mickeyhabbit@gmail.com",
+      "updatedDate": "2018-08-31T07:34:34.589Z",
+      "count": 0,
+      "id": 3
+    }
+  ]
+}

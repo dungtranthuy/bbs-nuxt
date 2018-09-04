@@ -68,6 +68,7 @@ export default {
       countShowError: 3,
     };
   },
+
   async fetch({store, params}) {
     await store.dispatch('getArticles');
   },
